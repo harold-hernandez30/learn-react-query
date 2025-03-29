@@ -1,0 +1,24 @@
+{
+  "name": "learn-react-query",
+  "version": "1.0.0",
+  "description": "Sample project for learing how React Query/TanStack works. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harold-hernandez30/learn-react-query.git"
+  },
+  "keywords": [
+    "learn",
+    "react-query",
+    "tanstack"
+  ],
+  "author": "Harold Hernandez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harold-hernandez30/learn-react-query/issues"
+  },
+  "homepage": "https://github.com/harold-hernandez30/learn-react-query#readme"
+}
